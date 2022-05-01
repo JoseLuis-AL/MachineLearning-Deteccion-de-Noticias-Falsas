@@ -1,0 +1,13 @@
+pandas
+unidecode
+openpyxl
+matplotlib
+jupyterlab
+nltk
+wordcloud
+torchinfo
+pytorchcv
+numpy
+sklearn
+seaborn
+keras
