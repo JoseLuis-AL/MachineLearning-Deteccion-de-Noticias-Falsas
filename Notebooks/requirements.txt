@@ -5,9 +5,10 @@ matplotlib
 jupyterlab
 nltk
 wordcloud
-torchinfo
-pytorchcv
 numpy
 sklearn
 seaborn
 keras
+tensorflow
+pillow
+spacy

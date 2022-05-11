@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecb8052d-0bf2-4b23-8d30-ebe9559999a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Notebooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Notebooks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 - Introduccion a los datos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1 - Introduccion a los datos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 - Limpieza de los datos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2 - Limpieza de los datos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 - Análisis de los datos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3 - Análisis de los datos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 - Clasificación de noticias falsas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/corpus_spanish_v3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datos/corpus_spanish_v3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/datos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/datos_procesados.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/development.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/test.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datos/train.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/LSTM_Accuracy_metric.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/LSTM_Loss_metric.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/cf_matrix_lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/cf_matrix_nive_bayes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/cf_matrix_regression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/clf_report_lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/clf_report_naive_bayes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/clf_report_regression.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/fig_accuracy_lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Metrics/fig_loss_lstm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Noticias-Caregoría.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Noticias-Temas-Categoria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/Noticias-Temas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_falsas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_falsas_entretenimiento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_falsas_salud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_verdaderas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_verdaderas_entretenimiento.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word-Cloud/wc_verdaderas_salud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/Proyecto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/vagrant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/1-Analisis-Datos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/2-Preprocesado-Datos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/3-Analisis-Exploratorio.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/4-Regresion-Logistica.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/5-LSTM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/datos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/datos_entrenamiento.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/datos_pruebas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/development.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/test.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Datos/train.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Imagenes/regresion_logistica.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Imagenes/sigmoid_log.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Plots/Figura-Datos-Noticias-Temas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Plots/Figura-Noticias-Temas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Plots/Noticias-Tema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Tablas-CSV/Datos-Tabla-Noticias-Temas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Tablas-CSV/Tabla-Noticias-Temas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_Entertainment_Fake_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_Entertainment_True_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_Fake_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_Health_Fake_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_Health_True_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/Word-Cloud/Word_Cloud_True_News.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/stopwords-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28qbTAcWjuYnBxyT8bEvAoOnEYH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Github/Deteccion-de-Noticias-Falsas/Notebooks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Jupyter Settings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecb8052d-0bf2-4b23-8d30-ebe9559999a1" name="Changes" comment="" />
+      <created>1651947069075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651947069075</updated>
+      <workItem from="1651947070937" duration="1263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
