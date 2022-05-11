@@ -54,25 +54,25 @@ El *corpus* cubre noticias de 9 temas diferentes.
 #### Noticias según el tema
 
 
-![noticias_categoria](plt_news_topic.png)
+![noticias_categoria](Plots/plt_news_topic.png)
 
-![noticias_categoria](table_news_topic.png)
+![noticias_categoria](Plots/table_news_topic.png)
 
 #### Noticias según el tema y la categoría
 
-![noticias_categoria](plt_category_topic.png)
+![noticias_categoria](Plots/plt_category_topic.png)
 
 ## Word Cloud
 
 #### Word Cloud de todas las noticias
-![noticias_categoria](wc_news_all.png)
+![noticias_categoria](Plots/wc_news_all.png)
 
 #### Word Cloud de todas las noticias de entrenetimiento
 
-![wc_entertaiment_news](wc_news_entertaiment_all.png)
+![wc_entertaiment_news](Plots/wc_news_entertaiment_all.png)
 
 #### Word Cloud de todas las noticias sobre salud
 
-![wc_health_news](wc_news_health_all.png)
+![wc_health_news](Plots/wc_news_health_all.png)
 
 
