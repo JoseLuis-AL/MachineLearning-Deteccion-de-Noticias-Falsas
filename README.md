@@ -3,7 +3,6 @@
 **Alumno:** Aguilera Luzania José Luis
 
 ## Información de los datos
----
 
 #### Información general
 
@@ -45,34 +44,30 @@ El *corpus* cubre noticias de 9 temas diferentes.
 - Link: URL de la fuente.
 
 # Análisis de los datos
----
 
 #### Noticias según la categoría
 
-![Clases](plt_news_count.png)
+![Clases](Notebooks/Plots/plt_news_count.png)
 
 #### Noticias según el tema
 
+![noticias_categoria](Notebooks/Plots/plt_news_topic.png)
 
-![noticias_categoria](plt_news_topic.png)
-
-![noticias_categoria](table_news_topic.png)
+![noticias_categoria](Notebooks/Plots/table_news_topic.png)
 
 #### Noticias según el tema y la categoría
 
-![noticias_categoria](plt_category_topic.png)
+![noticias_categoria](Notebooks/Plots/plt_category_topic.png)
 
 ## Word Cloud
 
 #### Word Cloud de todas las noticias
-![noticias_categoria](wc_news_all.png)
+![noticias_categoria](Notebooks/Plots/Word-Cloud/wc_news_all.png)
 
 #### Word Cloud de todas las noticias de entrenetimiento
 
-![wc_entertaiment_news](wc_news_entertaiment_all.png)
+![wc_entertaiment_news](Notebooks/Plots/Word-Cloud/wc_news_entertainment_all.png)
 
 #### Word Cloud de todas las noticias sobre salud
 
-![wc_health_news](wc_news_health_all.png)
-
-
+![wc_health_news](Notebooks/Plots/Word-Cloud/wc_news_health_all.png)
