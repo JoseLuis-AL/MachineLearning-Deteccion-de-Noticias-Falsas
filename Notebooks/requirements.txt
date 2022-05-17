@@ -8,10 +8,11 @@ matplotlib
 seaborn
 wordcloud
 nltk
-spacy[cuda114]
+spacy
 spacy_spanish_lemmatizer
 sklearn
 tensorflow
+keras
 tqdm
 ipywidgets
 pydot
