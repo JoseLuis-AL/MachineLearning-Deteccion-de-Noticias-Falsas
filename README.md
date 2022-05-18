@@ -1,3 +1,3 @@
-# Proyecto FInal
+# Proyecto Final
 
 Descripción pendiente...
