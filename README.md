@@ -3,7 +3,7 @@
 **Alumnos**
 
 - Aguilera Luzania José Luis
-- Lopes Santos Luis Angel
+- Lopez Santos Luis Angel
 
 ## Introducción
 
