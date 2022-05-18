@@ -3,7 +3,7 @@
 **Alumnos**
 
 - Aguilera Luzania José Luis
-- Lopez Santos Luis Angel
+- Lopes Santos Luis Angel
 
 ## Introducción
 
@@ -197,6 +197,33 @@ Se basa en la aplicación del teorema de Bayes para predecir la probabilidad de 
 <p align="center">
 <img src="./Notebooks/Imagenes/info/naive_bayes_eq.png" width="300">
 </p>
+
+MultinomialNB implementa el algoritmo de Naive Bayes para datos distribuidos multinomialmente, y es una de las dos variantes clásicas de Naive Bayes  utilizadas en la clasificación de textos (donde los datos se representan normalmente como recuentos de vectores de palabras, aunque también se sabe que los vectores tf-idf funcionan bien en la práctica). La distribución está parametrizada por vectores *theta_y = (theta_y_1, ..., theta_y_n)* para cada clase *y*, donde *n* es el número de características (en la clasificación de textos, el tamaño del vocabulario) y *theta_y_i* es la probabilidad *P(x_i | y)* de que el rasgo *i* aparezca en una muestra perteneciente a la clase *y*.
+
+Los parámetros *theta_y* se estiman mediante una versión suavizada de máxima verosimilitud, es decir, el recuento de la frecuencia relativa:
+
+<br>
+<p align="center">
+<img src="./Notebooks/Imagenes/info/naive_bayes_frequency_counting.png" width="150">
+</p>
+
+donde
+
+<br>
+<p align="center">
+<img src="./Notebooks/Imagenes/info/naive_bayes_number_of_times_feature.png" width="150">
+</p>
+
+es el número de veces que la característica *i* aparece en una muestra de la clase *y* en el conjunto de entrenamiento *T*, y
+
+<br>
+<p align="center">
+<img src="./Notebooks/Imagenes/info/naive_bayes_count_of_all_features.png" width="150">
+</p>
+
+es el recuento total de todas las características para la clase *y*.
+
+Los priores de suavizado *alpha >= 0* tienen en cuenta las características que no están presentes en las muestras de aprendizaje y evitan las probabilidades nulas en los cálculos posteriores. Establecer *alpha = 1* se llama suavizado de Laplace, mientras que *alpha < 1* se llama suavizado de Lidstone.
 
 ## Regresión logística
 
