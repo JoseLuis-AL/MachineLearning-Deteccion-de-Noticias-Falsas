@@ -3,7 +3,7 @@
 **Alumnos**
 
 - Aguilera Luzania José Luis
-- Francisco Javier Castro Marquez
+- Lopez Santos Luis Angel
 
 ## Introducción
 
